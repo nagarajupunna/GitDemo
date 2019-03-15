@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28" started-at="2019-02-13T20:23:58Z" finished-at="2019-02-13T20:23:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28" started-at="2019-02-13T20:23:58Z" finished-at="2019-02-13T20:23:58Z">
+      <class name="nagarajuMaven.ABCTest">
+        <test-method status="PASS" signature="ABCTest1()[pri:0, instance:nagarajuMaven.ABCTest@340f438e]" name="ABCTest1" duration-ms="8" started-at="2019-02-14T01:53:58Z" finished-at="2019-02-14T01:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ABCTest1 -->
+        <test-method status="PASS" signature="SeleniumTest2()[pri:0, instance:nagarajuMaven.ABCTest@340f438e]" name="SeleniumTest2" duration-ms="0" started-at="2019-02-14T01:53:58Z" finished-at="2019-02-14T01:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+      </class> <!-- nagarajuMaven.ABCTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
